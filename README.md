@@ -36,6 +36,6 @@ This repository contains synthesizable Verilog RTL designs and testbenches for f
 
 ## Tools Used:
 - Verilog HDL
-- ModelSim / Vivado (Simulation)
+- EDA playground/ siemens questa 2024.3 (Simulation)
 
 📌 This project demonstrates strong fundamentals in RTL design and verification.
